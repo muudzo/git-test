@@ -1,1 +1,1 @@
-# git-test
+in this project ill be working on my html skills to design a recipe book that has 3 different recipes . the biggest focus of this is to work on my git skills and how to further my design skills as a aspiring full stack developer 
